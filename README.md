@@ -15,9 +15,10 @@ After pressing continue redirects the user to the page where his csv data is con
 this page shows after the user had selected all the value that contained the number 293 and can further refine his search by joining many option to see if 
 there is a match
 
-![image](https://user-images.githubusercontent.com/47054385/164817092-93fe5c8a-0e96-467e-821b-f4f0265c5d9b.png)
+![image](https://user-images.githubusercontent.com/47054385/164817645-ba762b41-d107-4b89-a0b5-1d87574eaa2f.png)
 
 Mobile View
+
 ![image](https://user-images.githubusercontent.com/47054385/164817485-9ab45a58-0472-4bd1-b043-1645b5a03982.png)
 ![image](https://user-images.githubusercontent.com/47054385/164817520-84d305b3-b5c5-4cc0-aa67-600bed024cbd.png)
 
