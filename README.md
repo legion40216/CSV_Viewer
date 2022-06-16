@@ -1,6 +1,8 @@
 # CSV_Viewer
 This project converts and uploads your CSV file and displays it on a web page. Then filters all the unique data entries and sorts them out for the user to choose and too further filter different matches in the table
 
+live site https://starred-reliability.000webhostapp.com/index.php
+
 Features
 *the table resizes to fiit the viewport of the screen by optimizing the font size of the table, if the csv file has many columns.
 *the table is fully reponsive of mobile view.
